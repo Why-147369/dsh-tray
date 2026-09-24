@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 日志与运行时文件（含 token，严禁入库）
+*.log
+tray.log
+dsh-web.log
+tray.pid
+_*.txt
+
+# 本地安装产物
+.pnpm-local/
+
+# IDE
+.idea/
+.vscode/
