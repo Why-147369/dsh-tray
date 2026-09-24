@@ -1,11 +1,10 @@
-# dsh-tray — DeepSeek Harness 托盘助手
+﻿# dsh-tray — DeepSeek Harness 托盘助手
 
 > 已装好 [DeepSeek Harness (dsh)](https://github.com/deepseek-ai/deepseek-harness)，但是——
 > 没有桌面图标、没有托盘、桌宠要手动配、后台跑没跑完全不知道？
 >
 > **打开 dsh-tray，选个路径，一键全部配好。**
 
-![screenshot](docs/screenshot-placeholder.png)
 
 ## 它做什么
 
